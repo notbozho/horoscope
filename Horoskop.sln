@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horoskop", "Horoskop\Horoskop.csproj", "{B1E4B0E7-5476-4F6E-93C3-EA57BE48DA89}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupHoroskop", "SetupHoroskop\SetupHoroskop.vdproj", "{CC0C80FF-EB75-4ABE-BF0D-214359789081}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1E4B0E7-5476-4F6E-93C3-EA57BE48DA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E4B0E7-5476-4F6E-93C3-EA57BE48DA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E4B0E7-5476-4F6E-93C3-EA57BE48DA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E4B0E7-5476-4F6E-93C3-EA57BE48DA89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC0C80FF-EB75-4ABE-BF0D-214359789081}.Debug|Any CPU.ActiveCfg = Debug
+		{CC0C80FF-EB75-4ABE-BF0D-214359789081}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8217BA32-778D-40D7-BE6B-5172F9BB4715}
+	EndGlobalSection
+EndGlobal

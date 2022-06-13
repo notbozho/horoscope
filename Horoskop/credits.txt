@@ -1,0 +1,8 @@
+﻿CREDITS:
+
+MetroFramework.dll and MetroFramework.Design.dll:
+ - http://thielj.github.io/MetroFramework
+
+
+Zodiac Icons
+ - https://www.flaticon.com/packs/zodiac
